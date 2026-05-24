@@ -1,1 +1,4 @@
 /.idea/
+/common/common-domain/target/
+/common/common-dataaccess/target/
+/common/common-application/target/
