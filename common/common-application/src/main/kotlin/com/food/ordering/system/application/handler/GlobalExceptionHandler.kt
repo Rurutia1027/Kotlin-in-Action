@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.ResponseStatus
 
 @ControllerAdvice
 class GlobalExceptionHandler {
-    protected val log = LoggerFactory.getLogger(GlobalExceptionHandler::class.java)
+    private val log = LoggerFactory.getLogger(GlobalExceptionHandler::class.java)
 
     @ResponseBody
     @ExceptionHandler(Exception::class)
