@@ -13,8 +13,7 @@
         <!--        <module>restaurant-service</module>-->
         <module>common</module>
         <module>infrastructure</module>
-        <module>customer</module>
-        <module>customer/customer-domain</module>
+        <module>customer-service</module>
     </modules>
 
     <parent>
