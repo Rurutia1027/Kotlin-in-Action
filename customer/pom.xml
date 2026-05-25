@@ -11,6 +11,9 @@
 
     <artifactId>customer</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>customer-dataaccess</module>
+    </modules>
 
 
 </project>
