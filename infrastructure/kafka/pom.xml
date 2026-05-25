@@ -15,8 +15,7 @@
         <module>kafka-config-data</module>
         <module>kafka-model</module>
         <module>kafka-consumer</module>
-        <!-- Requires outbox + order-domain modules — enable when those are ported -->
-        <!-- <module>kafka-producer</module> -->
+        <module>kafka-producer</module>
     </modules>
 
     <repositories>
